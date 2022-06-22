@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  height: 400 px;
+  background-image: url(https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2021/10/edge-1200.jpg);
+  ;
+}
+
+h1 {
+  color: #A52A2A
+}
+
+h3 {
+  color:#A52A2A
+}
+h2 {
+  color: #A52A2A
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5% px;
+  width: 5%;
+}
